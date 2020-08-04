@@ -1,0 +1,11 @@
+{
+  "name": "@cka1o1/filter-items",
+  "version": "1.0.0",
+  "description": "A simple filter function to filter the desired items from the provided list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shikha Saboo",
+  "license": "ISC"
+}
